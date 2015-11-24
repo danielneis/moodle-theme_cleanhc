@@ -133,7 +133,7 @@ footer {
 }
 
 .path-grade-report-user .user-grade.generaltable .levelodd {
-    background: #000;
+    background: #000 !important;
 }
 
 /* Custom CSS Settings
